@@ -1,0 +1,30 @@
+.iconspace{
+    padding-top: 1.4641288433382138vw;
+    display: flex;
+    padding-bottom: 1.4641288433382138vw;
+    justify-content: space-evenly;
+    background: rgba(151, 153, 160, 0.4); 
+    backdrop-filter: blur(1px);
+}
+.MuiGrid-container{
+    justify-content: center;
+}
+.iconsp{
+    
+    display: flex;
+    justify-content: space-evenly;
+    background: transparent; 
+    margin-top: -2.9282576866764276vw;
+    padding-bottom: 0.7320644216691069vw;
+    backdrop-filter: blur(1px);
+}
+
+.forebg{
+    z-index: 1;
+    background-size: cover;
+    min-height: 100vh;
+    height: auto;
+    background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+}
+
+

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+.what{
+    background:rgb(163, 161, 161);
+    align-items: center;
+    padding:10vw;
+    font-family: 'Teko', sans-serif;
+    font-size: 2.9282576866764276vw;
+    margin-top: 5vw;
+
+    
+}
+.forfl{
+    display: flex   ;
+    justify-content: center;
+    
+    }
+
+.lin{
+    text-decoration:none;
+    color: black;
+}
+.lin:hover{
+    color:rgb(85, 85, 85);
+}
+.mot{
+    cursor: pointer;
+}
